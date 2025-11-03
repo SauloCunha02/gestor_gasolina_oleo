@@ -87,7 +87,7 @@ Credenciais padrão:
 Usuário: saulo
 Senha: senha123
 
+![Tela inicial do App](https://github.com/SauloCunha02/gestor_gasolina_oleo/blob/main/assets/img1.jpeg)
 
-![Tela inicial do app]([url_ou_caminho_da_imagem](https://github.com/SauloCunha02/gestor_gasolina_oleo/blob/main/assets/img1.jpeg))
 
 
