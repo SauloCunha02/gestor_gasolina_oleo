@@ -46,24 +46,32 @@ Sistema web desenvolvido para controle pessoal de gastos com combustível e manu
 1. **Clone o repositório**
 
 bash
+
 git clone https://github.com/seu-usuario/sistema-gasolina.git
+
 cd sistema-gasolina
 
 2. Configure o banco de dados
    
 # Crie um banco de dados no MySQL
+
 CREATE DATABASE gasolina_db;
 
 # Importe o arquivo SQL
 mysql -u root -p gasolina_db < database.sql
+
 Ou use o phpMyAdmin:
 
 Acesse http://localhost/phpmyadmin
+
 Crie o banco gasolina_db
+
 Importe o arquivo database.sql
 
 3. Configure a conexão
+   
    Edite o arquivo config/database.php:
+   
 $host = 'localhost';
 $dbname = 'gasolina_db';
 $username = 'root';
