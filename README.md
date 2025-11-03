@@ -89,5 +89,9 @@ Senha: senha123
 
 ![Tela inicial do App](https://github.com/SauloCunha02/gestor_gasolina_oleo/blob/main/assets/img1.jpeg)
 
+![Tela inicial do App](https://github.com/SauloCunha02/gestor_gasolina_oleo/blob/main/assets/img2.jpeg)
 
+![Cadastrar abastecimento](https://github.com/SauloCunha02/gestor_gasolina_oleo/blob/main/assets/img3.jpeg)
+
+![Troca de Óleo](https://github.com/SauloCunha02/gestor_gasolina_oleo/blob/main/assets/img4.jpeg)
 
