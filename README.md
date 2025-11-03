@@ -79,23 +79,6 @@ Credenciais padrão:
 Usuário: saulo
 Senha: senha123
 
-7. Estrutura do Projeto
 
-gasolina/
-├── 📂 config/
-│   └── database.php          # Conexão com banco de dados
-├── 📂 gasolina/
-│   ├── cadastrar.php         # Cadastro de abastecimentos
-│   ├── listar.php            # Lista de abastecimentos
-│   └── relatorio.php         # Relatórios de gasolina
-├── 📂 oleo/
-│   ├── cadastrar.php         # Cadastro de trocas de óleo
-│   ├── listar.php            # Lista de trocas
-│   └── relatorio.php         # Relatórios de manutenção
-├── index.php                 # Dashboard principal
-├── login.php                 # Página de login
-├── logout.php                # Logout e limpeza de sessão
-├── database.sql              # Script SQL do banco
-└── README.md                 # Este arquivo
 
 
